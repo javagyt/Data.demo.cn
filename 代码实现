@@ -1,4 +1,4 @@
-不使用第三个变量交换int型a和d的值
+不使用第三个变量交换int型a和b的值
  
 public class demo{
        public static void main(String[] args){
